@@ -1,3 +1,4 @@
+<!--
 ---
 layout: course
 title: Data Science Fundamentals
@@ -94,4 +95,4 @@ This course provides a comprehensive introduction to data science principles and
 
 - Assignments: 50%
 - Project: 40%
-- Participation: 10%
+- Participation: 10%-->
