@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>zzl5704@psu.edu</p>
+    <!--<p>zzl5704@psu.edu</p>-->
     <p>W239I, Olmsted Building</p>
     <p>777 W Harrisburg Pike<p>
     <p>Middletown, PA 17057</p>
