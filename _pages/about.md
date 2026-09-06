@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+<!--subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.-->
 
 profile:
   align: right
@@ -10,7 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>zzl5704@psu.edu</p>
-    <p>W239I, Olmsted Building, Olmsted Building, 777 W Harrisburg Pike</p>
+    <p>W239I, Olmsted Building</p>
+    <p>777 W Harrisburg Pike<p>
     <p>Middletown, PA 17057</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
