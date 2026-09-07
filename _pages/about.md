@@ -30,7 +30,7 @@ latest_posts:
 
 <!--Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.-->
 
-I am an Assistant Professor of Mechanical Engineering at Penn State Harrisburg and also a co-hire of Institute for Computational and Data Sciences, Penn State. I earned my Ph.D. degree in Industrial and Systems Engineering from the Unversity at Buffalo in January 2024. Before joining Penn State Harrisburg, I was a postdocoral research associate at University of Wisconsin-Madison. 
+I am an Assistant Professor of Mechanical Engineering at Penn State Harrisburg and also a co-hire of Institute for Computational and Data Sciences, Penn State. I earned my Ph.D. degree in Industrial and Systems Engineering from the Unversity at Buffalo in January 2024. Before joining Penn State Harrisburg, I was a postdocoral research associate at University of Wisconsin—Madison. 
 
 <!--Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.-->
 
