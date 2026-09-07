@@ -13,8 +13,10 @@ This page displays a collection of courses with detailed schedules, materials, a
 
 {% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
 
-{% include courses.liquid %}-->
+{% include courses.liquid %}
 {% endcomment %}
+
+
 ## Penn State Harrisburg
 
 **Fall 2026**  
@@ -28,5 +30,5 @@ Course Number — Course Name
 
 **Spring 2024**  
 IE 507 — Design and Analysis of Experiments  
-IE 327 — Facility Design and Materials Handling-->
+IE 327 — Facility Design and Materials Handling
 
