@@ -30,9 +30,11 @@ latest_posts:
 
 <!--Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.-->
 
-I am an Assistant Professor of Mechanical Engineering at Penn State Harrisburg and also a co-hire of Institute for Computational and Data Sciences, Penn State. I earned my Ph.D. degree in Industrial and Systems Engineering from the Unversity at Buffalo in January 2024. Before joining Penn State Harrisburg, I was a postdocoral research associate at University of Wisconsin—Madison.  
+I am an Assistant Professor of Mechanical Engineering at Penn State Harrisburg and also a co-hire of the Institute for Computational and Data Sciences (ICDS), Penn State. I earned my Ph.D. in Industrial and Systems Engineering from the University at Buffalo in January 2024. Before joining Penn State Harrisburg, I was a postdoctoral research associate at the University of Wisconsin—Madison.  
 
 My research lies at the intersection of advanced manufacturing, materials science, and artificial intelligence. I am broadly interested in developing intelligent methods to understand, monitor, and control complex manufacturing/materials systems, and beyond.
+
+Methodologically, my work integrates machine learning methods with physical knowledge and experimental data. I am particularly interested in problems involving complex and heterogeneous data, incomplete physical knowledge, and dynamic or uncertain operating environments. Ultimately, my research seeks to bridge physical understanding and artificial intelligence toward more reliable, adaptive, and autonomous engineering systems.  
 
 <!--Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.-->
 
