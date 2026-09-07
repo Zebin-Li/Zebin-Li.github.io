@@ -7,8 +7,8 @@ nav_order: 1
 ---
 
 ## Research interests
-# Advanced and additive manufacturing 
+1. Advanced and additive manufacturing 
 
-# Manufacturing data analytics and quality control 
+2. Manufacturing data analytics and quality control 
 
-# AI-enabled microstructure and process-structure-property modeling  
+3. AI-enabled microstructure and process-structure-property modeling  
